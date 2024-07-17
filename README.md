@@ -25,9 +25,3 @@ ForoHub es una API REST desarrollada con Spring Boot para la gestión de tópico
 - Maven 4 o superior
 - MySQL
 
-## Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/ForoHub.git
-   cd ForoHub
